@@ -1,0 +1,51 @@
+SupplierID,SupplierName,ContactInfo,PaymentTerm
+1,Daniels-Reynolds,+1-972-024-5458,Net 30
+2,Clayton-Morris,+1-264-476-6192,Net 10
+3,"Torres, Russo and Hart",+1-709-851-7230,2/10 Net 30
+4,Barnes-Price,+1-943-528-8252,Net 30
+5,White Group,+1-685-534-9706,Net 60
+6,"Wiley, Peterson and Shaffer",+1-838-661-9032,Net 60
+7,Miller-Bryan,+1-371-826-5403,Net 60
+8,"Bradford, Stewart and Cohen",+1-532-010-6625,Net 60
+9,Simon-Hernandez,+1-288-715-8085,Cash on Delivery (COD)
+10,Parker-Quinn,+1-186-900-3854,Net 60
+11,Johnson PLC,+1-532-384-8582,Mixed/Custom Terms
+12,Evans Group,+1-531-973-2397,Cash on Delivery (COD)
+13,King Ltd,+1-757-204-8958,Net 15
+14,Le-Hamilton,+1-431-756-2634,Net 30
+15,"Tucker, Holmes and Koch",+1-383-933-6402,2/10 Net 30
+16,"Brown, Ochoa and Cline",+1-551-028-2458,Cash on Delivery (COD)
+17,Mercado Ltd,+1-385-924-7232,Net 90
+18,Hamilton-Bates,+1-328-102-8356,Cash on Delivery (COD)
+19,Ruiz-Smith,+1-290-800-2712,Net 60
+20,"Alexander, Clayton and Hill",+1-967-033-8875,Net 60
+21,"Johnson, White and Brooks",+1-315-228-8149,Net 10
+22,Evans-Robertson,+1-460-287-0092,Net 30
+23,Perry Ltd,+1-253-427-1290,Mixed/Custom Terms
+24,"Vaughn, Tyler and Becker",+1-011-243-6763,Net 30
+25,Stevens PLC,+1-233-575-9013,Net 30
+26,Jackson LLC,+1-762-415-2981,Net 30
+27,Curtis Inc,+1-785-954-3027,Net 15
+28,"Ramirez, Davis and Gonzalez",+1-262-410-8535,Net 15
+29,Davis-Garcia,+1-335-463-1906,Net 30
+30,"Espinoza, Frost and Cisneros",+1-693-176-4689,Net 90
+31,Pace-Wagner,+1-558-910-1082,Mixed/Custom Terms
+32,Carey PLC,+1-896-856-6784,Net 30
+33,"Barrera, Jones and Myers",+1-879-253-9022,Net 30
+34,Moore Group,+1-175-623-2440,Net 30
+35,"Brown, Harrington and Torres",+1-402-314-3876,Payment in Advance (PIA)
+36,Charles PLC,+1-386-307-0716,1/15 Net 60
+37,"Miller, Garcia and Williams",+1-153-085-0521,Net 15
+38,"Wright, Gibbs and Contreras",+1-477-864-9986,Net 30
+39,Turner PLC,+1-834-948-8997,Net 30
+40,Padilla-Gibson,+1-515-497-0464,Net 30
+41,"Conrad, Moran and Stuart",+1-331-825-1469,Net 30
+42,Matthews-Bryant,+1-724-494-0238,Net 15
+43,"Henry, Higgins and Moore",+1-940-977-3635,Net 30
+44,Wiley-Harris,+1-285-747-5989,Net 30
+45,"Lawrence, Jones and Wade",+1-369-366-3733,Payment in Advance (PIA)
+46,Wood-Maxwell,+1-806-397-8212,Cash on Delivery (COD)
+47,Phillips-Martinez,+1-508-676-2415,Payment in Advance (PIA)
+48,"Taylor, Stephenson and Tran",+1-999-540-8554,Net 90
+49,Curry Group,+1-539-829-4280,2/10 Net 30
+50,Rios and Sons,+1-862-656-4678,Payment in Advance (PIA)
