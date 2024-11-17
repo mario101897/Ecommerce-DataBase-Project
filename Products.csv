@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,Price,StockQuantity,SupplierID
+1,Reliable Blender,Home & Kitchen,233.19,86,1
+2,Durable Toaster,Home & Kitchen,139.9,21,1
+3,Informative Novel,Books,47.54,173,1
+4,Educational Biography,Books,16.63,273,1
+5,Best-Selling Novel,Books,36.06,281,1
+6,Captivating Biography,Books,36.72,223,1
+7,Durable T-shirt,Clothing,197.61,233,1
+8,Lightweight Bicycle Helmet,Sports,77.63,47,1
+9,Modern Electric Kettle,Home & Kitchen,124.55,57,1
+10,Modern Vacuum Cleaner,Home & Kitchen,275.23,269,1
+11,Energy-Efficient Digital Camera,Electronics,517.47,159,1
+12,Best-Selling Children's Book,Books,10.46,117,2
+13,Comfortable T-shirt,Clothing,72.85,174,2
+14,Reliable Golf Clubs,Sports,38.07,275,2
+15,Advanced Tablet,Electronics,835.33,293,2
+16,Versatile Toaster,Home & Kitchen,216.61,218,2
+17,Stylish Toaster,Home & Kitchen,241.96,118,2
+18,Modern Toaster,Home & Kitchen,382.25,147,2
+19,Trendy Shorts,Clothing,55.04,242,2
+20,Cozy Jeans,Clothing,189.36,253,2
+21,Cozy Shorts,Clothing,94.31,36,2
+22,High-Performance Running Shoes,Sports,88.94,259,2
+23,Space-Saving Cutting Board,Home & Kitchen,471.75,279,2
+24,Efficient Toaster,Home & Kitchen,96.94,119,2
+25,Stylish T-shirt,Clothing,32.64,146,2
+26,Reliable Electric Kettle,Home & Kitchen,285.2,63,2
+27,Reliable Dumbbells,Sports,20.18,145,3
+28,Efficient Blender,Home & Kitchen,475.84,163,3
+29,Stylish Microwave Oven,Home & Kitchen,150.08,113,3
+30,High-Quality Food Processor,Home & Kitchen,493.73,101,3
+31,Reliable Tennis Racket,Sports,138.69,220,3
+32,Cozy Blouse,Clothing,115.46,186,3
+33,Durable Cutting Board,Home & Kitchen,374.01,121,4
+34,High-Performance Dumbbells,Sports,144.79,138,4
+35,Innovative Digital Camera,Electronics,487.78,176,4
+36,Elegant Dress,Clothing,100.2,183,4
+37,Comfortable Shorts,Clothing,156.42,227,4
+38,Engaging Science Fiction Book,Books,41.71,242,4
+39,Lightweight Socks,Clothing,27.65,68,4
+40,Breathable Blouse,Clothing,95.78,284,4
+41,Sturdy Golf Clubs,Sports,133.15,114,4
+42,Award-Winning Science Fiction Book,Books,19.09,250,4
+43,Comfortable Soccer Ball,Sports,33.96,81,4
+44,Energy-Efficient Laptop,Electronics,871.61,230,4
+45,Efficient Dish Rack,Home & Kitchen,140.09,116,4
+46,Classic Graphic Novel,Books,44.68,99,4
+47,Comfortable Basketball,Sports,92.87,165,4
+48,Compact Electric Kettle,Home & Kitchen,230.81,166,5
+49,Informative Graphic Novel,Books,25.52,31,5
+50,Award-Winning Biography,Books,48.25,167,5
+51,Stylish Cookware Set,Home & Kitchen,415.42,59,5
+52,Advanced Bluetooth Speaker,Electronics,220.04,228,5
+53,High-Quality Coffee Maker,Home & Kitchen,163.74,297,5
+54,Compact Blender,Home & Kitchen,209.35,66,5
+55,Engaging Travel Guide,Books,44.51,127,5
+56,Lightweight Dumbbells,Sports,16.12,255,5
+57,Energy-Efficient Gaming Console,Electronics,275.29,106,5
+58,High-Performance Bluetooth Speaker,Electronics,649.14,20,5
+59,Comfortable Hoodie,Clothing,65.76,35,5
+60,Compact Cookware Set,Home & Kitchen,69.95,77,5
+61,Cozy Jacket,Clothing,118.69,46,6
+62,Multifunctional Gaming Console,Electronics,419.18,114,6
+63,User-Friendly Bluetooth Speaker,Electronics,712.23,224,6
+64,Multifunctional E-reader,Electronics,555.24,151,6
+65,Advanced Laptop,Electronics,381.93,287,6
+66,Compact Coffee Maker,Home & Kitchen,480.83,239,7
+67,Durable Vacuum Cleaner,Home & Kitchen,486.63,121,7
+68,Entertaining Graphic Novel,Books,49.86,122,7
+69,Reliable Toaster,Home & Kitchen,113.7,95,7
+70,Compact Headphones,Electronics,724.49,283,7
+71,Versatile Jeans,Clothing,139.01,158,7
+72,User-Friendly Wireless Router,Electronics,312.44,46,7
+73,Versatile Golf Clubs,Sports,109.3,170,7
+74,Breathable Shorts,Clothing,177.79,52,7
+75,Compact Food Processor,Home & Kitchen,73.84,240,7
+76,Casual Jeans,Clothing,59.47,260,8
+77,Durable Blouse,Clothing,146.76,231,8
+78,Comfortable Skirt,Clothing,93.8,218,8
+79,Innovative Gaming Console,Electronics,135.1,93,8
+80,Multifunctional Bluetooth Speaker,Electronics,828.57,140,8
+81,High-Performance Wireless Router,Electronics,865.56,289,8
+82,Modern Blender,Home & Kitchen,284.77,190,8
+83,Captivating Novel,Books,25.88,281,9
+84,Quality Dumbbells,Sports,126.76,148,9
+85,Quality Tennis Racket,Sports,130.66,265,9
+86,Award-Winning Graphic Novel,Books,11.17,53,9
+87,User-Friendly Tablet,Electronics,783.01,23,9
+88,Classic Children's Book,Books,36.55,212,9
+89,Stylish Blender,Home & Kitchen,364.74,210,9
+90,Comfortable Bicycle Helmet,Sports,134.43,245,9
+91,Educational Novel,Books,20.4,241,10
+92,Casual Sweater,Clothing,93.7,267,10
+93,Captivating Cookbook,Books,36.61,293,10
+94,Sleek Laptop,Electronics,738.27,223,10
+95,Compact Bluetooth Speaker,Electronics,148.74,248,10
+96,Easy-to-Clean Toaster,Home & Kitchen,474.58,244,10
+97,Elegant Shorts,Clothing,53.5,107,11
+98,Compact Gaming Console,Electronics,294.4,273,11
+99,Space-Saving Electric Kettle,Home & Kitchen,251.67,145,11
+100,Reliable Dish Rack,Home & Kitchen,62.77,100,11
+101,Comfortable Skateboard,Sports,122.59,97,11
+102,Trendy T-shirt,Clothing,83.05,91,12
+103,Durable Blender,Home & Kitchen,410.34,239,12
+104,Inspiring Mystery Thriller,Books,32.22,291,12
+105,Captivating Textbook,Books,10.48,291,12
+106,Adjustable Dumbbells,Sports,25.52,60,12
+107,Easy-to-Clean Electric Kettle,Home & Kitchen,460.94,127,12
+108,Best-Selling Science Fiction Book,Books,38.48,20,12
+109,Elegant Blouse,Clothing,62.85,183,12
+110,Versatile Hoodie,Clothing,63.57,248,13
+111,Efficient Vacuum Cleaner,Home & Kitchen,439.34,237,13
+112,Comfortable Golf Clubs,Sports,70.53,45,13
+113,Advanced Smartwatch,Electronics,828.05,22,13
+114,Quality Soccer Ball,Sports,96.55,144,13
+115,Versatile Blouse,Clothing,29.2,160,13
+116,Versatile T-shirt,Clothing,112.72,133,13
+117,Energy-Efficient Tablet,Electronics,421.37,186,13
+118,Energy-Efficient Smartwatch,Electronics,446.66,29,13
+119,Sleek E-reader,Electronics,309.51,289,13
+120,Stylish Jeans,Clothing,80.44,64,13
+121,Thought-Provoking Travel Guide,Books,11.18,103,13
+122,Adjustable Soccer Ball,Sports,132.74,60,14
+123,Adjustable Football,Sports,117.22,281,14
+124,High-Performance Laptop,Electronics,850.95,44,14
+125,Durable Microwave Oven,Home & Kitchen,223.72,149,14
+126,User-Friendly E-reader,Electronics,521.38,268,14
+127,Award-Winning Cookbook,Books,43.88,218,14
+128,Classic Science Fiction Book,Books,45.12,190,15
+129,Casual Hoodie,Clothing,70.3,144,15
+130,Durable Sweater,Clothing,103.7,235,15
+131,Durable Soccer Ball,Sports,60.71,59,15
+132,Durable Food Processor,Home & Kitchen,125.21,143,15
+133,Trendy Skirt,Clothing,27.36,300,15
+134,Reliable Digital Camera,Electronics,694.92,41,15
+135,Durable Skateboard,Sports,38.35,72,16
+136,Elegant Jacket,Clothing,185.34,290,16
+137,Space-Saving Toaster,Home & Kitchen,132.67,163,16
+138,High-Performance Digital Camera,Electronics,482.99,221,16
+139,Versatile Bicycle Helmet,Sports,148.68,42,16
+140,Adjustable Golf Clubs,Sports,53.69,103,16
+141,Versatile Dress,Clothing,48.62,39,16
+142,Inspiring Novel,Books,48.07,96,16
+143,Captivating Mystery Thriller,Books,22.49,113,16
+144,Inspiring Graphic Novel,Books,33.22,145,16
+145,Sleek Gaming Console,Electronics,163.42,255,16
+146,Engaging Novel,Books,19.21,132,16
+147,Durable Tennis Racket,Sports,87.34,40,16
+148,Educational Cookbook,Books,49.58,257,17
+149,Durable E-reader,Electronics,135.95,234,17
+150,Elegant T-shirt,Clothing,180.76,27,17
+151,Innovative Wireless Router,Electronics,816.05,247,17
+152,Entertaining Poetry Collection,Books,49.18,237,17
+153,Stylish Coffee Maker,Home & Kitchen,377.55,150,17
+154,Durable Digital Camera,Electronics,527.29,242,17
+155,Reliable Food Processor,Home & Kitchen,108.4,53,18
+156,Space-Saving Vacuum Cleaner,Home & Kitchen,496.01,77,18
+157,Durable Electric Kettle,Home & Kitchen,249.54,87,18
+158,Versatile Blender,Home & Kitchen,193.78,207,18
+159,Trendy Sweater,Clothing,195.03,51,18
+160,Educational Textbook,Books,46.61,91,18
+161,Lightweight Golf Clubs,Sports,90.52,126,18
+162,Captivating Graphic Novel,Books,46.64,130,19
+163,Professional Basketball,Sports,16.31,218,19
+164,High-Performance Tennis Racket,Sports,43.08,177,19
+165,Entertaining Biography,Books,49.45,280,19
+166,Educational Graphic Novel,Books,31.99,163,19
+167,Versatile Cookware Set,Home & Kitchen,242.82,270,19
+168,Energy-Efficient Portable Charger,Electronics,751.31,85,19
+169,Durable Smartwatch,Electronics,109.61,203,19
+170,Sturdy Football,Sports,130.19,243,19
+171,Lightweight Blouse,Clothing,81.4,182,19
+172,High-Performance Tablet,Electronics,689.01,95,19
+173,Advanced Digital Camera,Electronics,285.17,90,19
+174,Sturdy Basketball,Sports,15.21,256,19
+175,Best-Selling Mystery Thriller,Books,38.22,28,19
+176,Reliable Cutting Board,Home & Kitchen,129.23,145,19
+177,Engaging Graphic Novel,Books,48.1,103,19
+178,Casual Socks,Clothing,180.08,242,20
+179,Versatile Jacket,Clothing,119.43,116,20
+180,High-Performance Basketball,Sports,33.64,42,20
+181,Comfortable Dumbbells,Sports,53.1,236,20
+182,Durable Hoodie,Clothing,44.45,60,20
+183,High-Performance Headphones,Electronics,628.69,20,20
+184,Durable Skirt,Clothing,145.87,57,20
+185,Innovative Bluetooth Speaker,Electronics,814.72,49,20
+186,Durable Headphones,Electronics,759.15,250,21
+187,Comfortable Blouse,Clothing,123.84,117,21
+188,Compact E-reader,Electronics,796.63,28,21
+189,Lightweight Skirt,Clothing,162.63,63,21
+190,Innovative E-reader,Electronics,100.79,116,21
+191,Quality Basketball,Sports,57.35,300,21
+192,Classic Textbook,Books,21.84,236,21
+193,Durable Dumbbells,Sports,66.36,29,21
+194,Compact Dish Rack,Home & Kitchen,107.11,272,21
+195,High-Quality Microwave Oven,Home & Kitchen,328.95,250,21
+196,Durable Jacket,Clothing,164.54,150,21
+197,High-Performance Bicycle Helmet,Sports,144.3,121,21
+198,Thought-Provoking Biography,Books,14.45,169,21
+199,Informative Mystery Thriller,Books,28.13,39,21
+200,Quality Golf Clubs,Sports,119.86,265,22
+201,Energy-Efficient Bluetooth Speaker,Electronics,675.58,189,22
+202,High-Quality Vacuum Cleaner,Home & Kitchen,319.37,215,22
+203,Informative Children's Book,Books,21.14,138,22
+204,Durable Portable Charger,Electronics,211.45,286,22
+205,Versatile Microwave Oven,Home & Kitchen,284.1,83,23
+206,Educational Travel Guide,Books,23.56,90,23
+207,Durable Socks,Clothing,95.82,42,23
+208,Compact Portable Charger,Electronics,705.22,121,23
+209,Breathable Jeans,Clothing,78.74,40,23
+210,Comfortable Football,Sports,118.08,291,23
+211,Reliable Gaming Console,Electronics,185.3,276,23
+212,Inspiring Textbook,Books,37.47,84,23
+213,Versatile Dish Rack,Home & Kitchen,150.41,163,23
+214,Sleek Digital Camera,Electronics,644.04,161,23
+215,Reliable Tablet,Electronics,843.17,106,23
+216,Stylish Vacuum Cleaner,Home & Kitchen,413.45,86,23
+217,Stylish Dish Rack,Home & Kitchen,427.27,280,23
+218,Versatile Sweater,Clothing,167.45,92,24
+219,Easy-to-Clean Vacuum Cleaner,Home & Kitchen,208.57,131,24
+220,Lightweight Hoodie,Clothing,180.79,282,24
+221,Versatile Skateboard,Sports,41.59,115,24
+222,Reliable Yoga Mat,Sports,112.27,143,24
+223,Breathable Sweater,Clothing,171.66,289,24
+224,Breathable Socks,Clothing,158.52,83,24
+225,Multifunctional Headphones,Electronics,859.74,212,24
+226,Entertaining Textbook,Books,26.12,298,24
+227,Thought-Provoking Science Fiction Book,Books,42.53,249,25
+228,Engaging Biography,Books,35.04,238,25
+229,Captivating Travel Guide,Books,17.76,222,25
+230,User-Friendly Digital Camera,Electronics,164.45,233,25
+231,Lightweight Tennis Racket,Sports,77.26,94,25
+232,Advanced Headphones,Electronics,343.88,202,25
+233,Sleek Headphones,Electronics,833.34,95,25
+234,Reliable Bluetooth Speaker,Electronics,577.04,96,25
+235,Reliable Skateboard,Sports,42.7,234,25
+236,Modern Cookware Set,Home & Kitchen,222.27,178,25
+237,Multifunctional Digital Camera,Electronics,124.92,146,25
+238,Cozy T-shirt,Clothing,62.93,104,26
+239,Cozy Sweater,Clothing,154.06,297,26
+240,Energy-Efficient Wireless Router,Electronics,343.76,238,26
+241,Space-Saving Coffee Maker,Home & Kitchen,498.95,25,26
+242,Comfortable Jacket,Clothing,85.16,262,27
+243,User-Friendly Smartwatch,Electronics,487.07,25,27
+244,Casual Jacket,Clothing,155.38,42,27
+245,Professional Tennis Racket,Sports,116.27,97,27
+246,High-Performance Football,Sports,28.53,43,27
+247,High-Performance Smartwatch,Electronics,640.32,128,27
+248,Sturdy Soccer Ball,Sports,49.22,214,27
+249,Professional Running Shoes,Sports,36.81,87,27
+250,Informative Cookbook,Books,40.53,265,27
+251,Quality Skateboard,Sports,39.4,61,27
+252,Trendy Socks,Clothing,104.67,164,27
+253,Entertaining Children's Book,Books,21.0,77,28
+254,Educational Children's Book,Books,37.83,115,28
+255,High-Performance Golf Clubs,Sports,60.92,115,28
+256,Best-Selling Poetry Collection,Books,19.49,208,28
+257,Entertaining Travel Guide,Books,34.72,153,29
+258,Stylish Cutting Board,Home & Kitchen,265.49,142,29
+259,Inspiring Cookbook,Books,31.53,274,29
+260,Compact Microwave Oven,Home & Kitchen,294.74,271,29
+261,Best-Selling Travel Guide,Books,17.84,160,29
+262,Captivating Science Fiction Book,Books,46.63,88,29
+263,Compact Tablet,Electronics,467.03,54,29
+264,High-Quality Cookware Set,Home & Kitchen,360.2,203,29
+265,Professional Football,Sports,112.5,43,29
+266,High-Quality Toaster,Home & Kitchen,69.9,294,29
+267,High-Performance Gaming Console,Electronics,490.85,256,29
+268,Modern Food Processor,Home & Kitchen,261.4,91,29
+269,Stylish Food Processor,Home & Kitchen,395.82,22,29
+270,Space-Saving Cookware Set,Home & Kitchen,195.94,41,29
+271,Durable Coffee Maker,Home & Kitchen,395.37,168,29
+272,Casual Dress,Clothing,198.89,230,30
+273,Lightweight Sweater,Clothing,38.02,93,30
+274,Engaging Cookbook,Books,17.52,295,30
+275,Efficient Cutting Board,Home & Kitchen,142.48,74,30
+276,High-Performance Skateboard,Sports,115.47,100,30
+277,Stylish Skirt,Clothing,48.47,220,31
+278,Reliable Microwave Oven,Home & Kitchen,300.9,154,31
+279,Reliable Bicycle Helmet,Sports,40.55,261,31
+280,Casual Skirt,Clothing,75.2,152,31
+281,Versatile Socks,Clothing,160.02,231,31
+282,Innovative Smartwatch,Electronics,313.93,226,31
+283,Captivating Poetry Collection,Books,27.69,24,31
+284,Entertaining Science Fiction Book,Books,25.07,220,31
+285,User-Friendly Headphones,Electronics,327.28,199,32
+286,Advanced E-reader,Electronics,845.87,287,32
+287,Modern Coffee Maker,Home & Kitchen,180.33,109,32
+288,High-Performance E-reader,Electronics,297.16,148,32
+289,Professional Soccer Ball,Sports,134.65,204,32
+290,Stylish Blouse,Clothing,29.64,234,32
+291,Comfortable Socks,Clothing,52.01,196,32
+292,Lightweight Shorts,Clothing,88.38,244,32
+293,Reliable Soccer Ball,Sports,51.84,161,32
+294,Efficient Microwave Oven,Home & Kitchen,103.06,56,32
+295,Modern Dish Rack,Home & Kitchen,345.39,226,32
+296,Trendy Blouse,Clothing,103.03,48,33
+297,Entertaining Novel,Books,30.27,213,33
+298,Innovative Headphones,Electronics,374.32,233,33
+299,Professional Bicycle Helmet,Sports,147.13,167,33
+300,Advanced Wireless Router,Electronics,709.83,46,33
+301,Thought-Provoking Poetry Collection,Books,13.33,284,33
+302,Engaging Mystery Thriller,Books,32.41,70,33
+303,Durable Wireless Router,Electronics,340.7,270,33
+304,Comfortable Dress,Clothing,168.36,288,33
+305,Trendy Jacket,Clothing,142.58,144,33
+306,Sleek Bluetooth Speaker,Electronics,434.14,64,33
+307,Quality Running Shoes,Sports,118.25,253,34
+308,Thought-Provoking Children's Book,Books,25.91,125,34
+309,Professional Dumbbells,Sports,144.89,282,34
+310,Sleek Tablet,Electronics,212.06,27,34
+311,High-Quality Cutting Board,Home & Kitchen,164.94,134,34
+312,Stylish Jacket,Clothing,83.9,69,34
+313,Best-Selling Textbook,Books,49.55,249,35
+314,Award-Winning Travel Guide,Books,42.67,118,35
+315,Sturdy Tennis Racket,Sports,116.33,41,35
+316,Durable Gaming Console,Electronics,276.0,260,35
+317,Energy-Efficient E-reader,Electronics,350.57,61,35
+318,Engaging Textbook,Books,10.97,241,35
+319,Educational Poetry Collection,Books,21.4,126,35
+320,Durable Basketball,Sports,105.29,257,35
+321,Lightweight T-shirt,Clothing,191.55,45,35
+322,Versatile Electric Kettle,Home & Kitchen,68.54,258,35
+323,Adjustable Yoga Mat,Sports,143.15,67,35
+324,Breathable Skirt,Clothing,84.71,215,35
+325,Elegant Skirt,Clothing,163.64,245,35
+326,Lightweight Skateboard,Sports,54.03,175,36
+327,Thought-Provoking Graphic Novel,Books,24.26,259,36
+328,Innovative Portable Charger,Electronics,246.57,266,36
+329,Efficient Coffee Maker,Home & Kitchen,283.84,202,36
+330,Space-Saving Blender,Home & Kitchen,287.45,160,36
+331,Compact Smartwatch,Electronics,865.86,267,36
+332,Durable Dish Rack,Home & Kitchen,235.95,145,36
+333,Cozy Skirt,Clothing,53.31,199,36
+334,Innovative Laptop,Electronics,546.51,70,36
+335,Trendy Jeans,Clothing,141.29,130,36
+336,Lightweight Dress,Clothing,189.44,65,36
+337,Easy-to-Clean Cookware Set,Home & Kitchen,262.98,260,36
+338,Sleek Portable Charger,Electronics,260.63,24,36
+339,Informative Textbook,Books,16.7,47,37
+340,Reliable Vacuum Cleaner,Home & Kitchen,259.21,95,37
+341,Stylish Dress,Clothing,61.2,175,37
+342,User-Friendly Laptop,Electronics,334.26,276,37
+343,Quality Football,Sports,62.24,39,37
+344,Efficient Food Processor,Home & Kitchen,454.19,60,37
+345,Classic Cookbook,Books,11.17,133,37
+346,Adjustable Skateboard,Sports,30.44,221,37
+347,Versatile Shorts,Clothing,180.46,238,37
+348,Breathable Dress,Clothing,164.95,257,37
+349,Durable Running Shoes,Sports,20.58,46,38
+350,Efficient Electric Kettle,Home & Kitchen,102.43,201,38
+351,Inspiring Poetry Collection,Books,34.89,274,38
+352,Cozy Socks,Clothing,120.85,299,38
+353,Multifunctional Wireless Router,Electronics,975.38,300,38
+354,Educational Mystery Thriller,Books,38.18,272,38
+355,Reliable Football,Sports,109.14,84,38
+356,Reliable Basketball,Sports,51.7,240,38
+357,Stylish Shorts,Clothing,165.22,109,38
+358,Advanced Portable Charger,Electronics,996.09,175,39
+359,Durable Jeans,Clothing,110.0,136,39
+360,Award-Winning Children's Book,Books,13.45,165,39
+361,Multifunctional Portable Charger,Electronics,299.96,279,39
+362,Elegant Jeans,Clothing,29.19,49,39
+363,Easy-to-Clean Microwave Oven,Home & Kitchen,348.84,146,39
+364,Stylish Sweater,Clothing,27.35,103,39
+365,Lightweight Yoga Mat,Sports,114.28,89,39
+366,Breathable Jacket,Clothing,117.71,169,39
+367,Casual Shorts,Clothing,27.48,200,39
+368,Informative Travel Guide,Books,39.2,274,39
+369,Lightweight Jacket,Clothing,149.81,90,39
+370,Entertaining Cookbook,Books,21.09,200,39
+371,User-Friendly Portable Charger,Electronics,974.55,54,39
+372,Reliable Cookware Set,Home & Kitchen,305.87,100,40
+373,Multifunctional Laptop,Electronics,410.81,141,40
+374,Sturdy Yoga Mat,Sports,127.93,205,40
+375,Modern Cutting Board,Home & Kitchen,447.4,143,40
+376,Elegant Sweater,Clothing,107.22,103,40
+377,Multifunctional Tablet,Electronics,748.16,87,40
+378,Engaging Children's Book,Books,14.27,230,40
+379,Reliable Laptop,Electronics,206.41,257,40
+380,Informative Poetry Collection,Books,19.18,188,40
+381,Comfortable Jeans,Clothing,167.47,96,40
+382,Elegant Socks,Clothing,74.44,251,40
+383,Inspiring Children's Book,Books,39.88,68,40
+384,Easy-to-Clean Coffee Maker,Home & Kitchen,189.95,37,40
+385,Efficient Cookware Set,Home & Kitchen,167.21,154,40
+386,User-Friendly Gaming Console,Electronics,420.56,129,40
+387,Sleek Wireless Router,Electronics,949.95,184,40
+388,Award-Winning Mystery Thriller,Books,27.75,266,41
+389,Reliable Portable Charger,Electronics,440.03,122,41
+390,High-Performance Portable Charger,Electronics,828.53,249,41
+391,Reliable E-reader,Electronics,247.29,160,41
+392,Classic Travel Guide,Books,34.77,222,41
+393,Durable Shorts,Clothing,184.0,139,41
+394,Durable Laptop,Electronics,488.39,276,41
+395,Reliable Running Shoes,Sports,26.45,297,41
+396,High-Quality Dish Rack,Home & Kitchen,254.23,140,41
+397,Classic Biography,Books,47.83,272,41
+398,Award-Winning Textbook,Books,19.46,38,41
+399,Versatile Coffee Maker,Home & Kitchen,499.0,136,41
+400,Captivating Children's Book,Books,39.75,230,41
+401,Reliable Smartwatch,Electronics,905.3,147,41
+402,Durable Tablet,Electronics,845.1,151,41
+403,Elegant Hoodie,Clothing,159.51,223,42
+404,Advanced Gaming Console,Electronics,590.39,71,42
+405,Comfortable Sweater,Clothing,119.36,58,42
+406,Versatile Food Processor,Home & Kitchen,287.84,174,42
+407,Casual Blouse,Clothing,118.23,150,42
+408,Classic Novel,Books,27.7,156,42
+409,Reliable Coffee Maker,Home & Kitchen,68.59,276,42
+410,Trendy Hoodie,Clothing,173.02,31,42
+411,Versatile Basketball,Sports,112.01,273,42
+412,Comfortable Running Shoes,Sports,70.2,161,42
+413,Sleek Smartwatch,Electronics,821.39,239,42
+414,Award-Winning Poetry Collection,Books,31.24,245,42
+415,Compact Wireless Router,Electronics,495.32,106,42
+416,Engaging Poetry Collection,Books,15.81,218,42
+417,Easy-to-Clean Blender,Home & Kitchen,492.2,214,42
+418,Reliable Wireless Router,Electronics,932.95,57,42
+419,Quality Yoga Mat,Sports,34.49,40,43
+420,Durable Golf Clubs,Sports,35.24,118,43
+421,Innovative Tablet,Electronics,235.57,289,43
+422,Lightweight Football,Sports,117.72,257,43
+423,Reliable Headphones,Electronics,112.5,145,44
+424,Energy-Efficient Headphones,Electronics,493.39,108,44
+425,Easy-to-Clean Food Processor,Home & Kitchen,170.53,99,44
+426,Sturdy Running Shoes,Sports,72.59,88,44
+427,Cozy Dress,Clothing,88.01,271,44
+428,Award-Winning Novel,Books,20.65,79,44
+429,Adjustable Running Shoes,Sports,148.7,211,44
+430,High-Performance Soccer Ball,Sports,116.28,255,44
+431,Compact Digital Camera,Electronics,841.96,183,44
+432,High-Quality Electric Kettle,Home & Kitchen,328.03,176,44
+433,Inspiring Travel Guide,Books,44.31,244,44
+434,Multifunctional Smartwatch,Electronics,584.08,149,44
+435,Lightweight Soccer Ball,Sports,69.6,116,45
+436,Cozy Hoodie,Clothing,197.35,104,45
+437,Versatile Vacuum Cleaner,Home & Kitchen,472.81,129,45
+438,Educational Science Fiction Book,Books,46.86,298,45
+439,Durable Bluetooth Speaker,Electronics,892.85,88,45
+440,Adjustable Bicycle Helmet,Sports,145.88,53,45
+441,Durable Yoga Mat,Sports,130.28,207,45
+442,Compact Laptop,Electronics,391.51,228,45
+443,Space-Saving Dish Rack,Home & Kitchen,134.17,297,45
+444,Thought-Provoking Novel,Books,18.61,153,45
+445,Versatile Dumbbells,Sports,97.26,20,45
+446,Compact Cutting Board,Home & Kitchen,94.61,280,45
+447,Sturdy Skateboard,Sports,88.12,203,45
+448,Inspiring Science Fiction Book,Books,24.43,88,45
+449,Professional Skateboard,Sports,50.92,226,45
+450,Classic Poetry Collection,Books,42.85,76,45
+451,Breathable Hoodie,Clothing,97.55,49,46
+452,Stylish Socks,Clothing,199.49,221,46
+453,Versatile Soccer Ball,Sports,84.16,223,46
+454,Breathable T-shirt,Clothing,86.83,297,46
+455,Versatile Football,Sports,62.54,206,46
+456,Durable Dress,Clothing,99.8,30,46
+457,Versatile Yoga Mat,Sports,15.07,92,46
+458,Thought-Provoking Mystery Thriller,Books,41.12,240,46
+459,Versatile Tennis Racket,Sports,111.81,41,47
+460,Trendy Dress,Clothing,135.1,48,47
+461,Compact Toaster,Home & Kitchen,496.43,235,47
+462,Lightweight Jeans,Clothing,39.93,227,47
+463,Entertaining Mystery Thriller,Books,43.81,150,47
+464,Easy-to-Clean Cutting Board,Home & Kitchen,103.25,267,47
+465,Stylish Hoodie,Clothing,144.82,257,47
+466,High-Quality Blender,Home & Kitchen,287.54,163,47
+467,Versatile Skirt,Clothing,135.03,278,47
+468,Casual T-shirt,Clothing,54.91,212,47
+469,Thought-Provoking Textbook,Books,35.92,281,47
+470,Space-Saving Food Processor,Home & Kitchen,86.89,29,47
+471,Best-Selling Graphic Novel,Books,12.72,253,47
+472,Versatile Cutting Board,Home & Kitchen,179.31,81,47
+473,Best-Selling Biography,Books,27.81,216,48
+474,Space-Saving Microwave Oven,Home & Kitchen,439.91,225,48
+475,Informative Science Fiction Book,Books,25.4,223,48
+476,Durable Cookware Set,Home & Kitchen,343.25,274,48
+477,Stylish Electric Kettle,Home & Kitchen,342.89,56,48
+478,Thought-Provoking Cookbook,Books,46.52,161,49
+479,Modern Microwave Oven,Home & Kitchen,389.38,243,49
+480,Compact Vacuum Cleaner,Home & Kitchen,142.3,297,49
+481,Versatile Running Shoes,Sports,30.46,274,49
+482,Easy-to-Clean Dish Rack,Home & Kitchen,272.9,201,49
+483,Durable Football,Sports,21.86,116,49
+484,Best-Selling Cookbook,Books,27.72,179,49
+485,Informative Biography,Books,48.72,299,49
+486,Classic Mystery Thriller,Books,17.27,250,49
+487,Sturdy Bicycle Helmet,Sports,16.79,157,49
+488,Professional Yoga Mat,Sports,96.61,43,49
+489,Inspiring Biography,Books,42.98,172,50
+490,High-Performance Yoga Mat,Sports,64.11,262,50
+491,Adjustable Tennis Racket,Sports,120.77,60,50
+492,Comfortable Tennis Racket,Sports,62.24,133,50
+493,Sturdy Dumbbells,Sports,90.07,185,50
+494,Lightweight Basketball,Sports,68.66,102,50
+495,Lightweight Running Shoes,Sports,57.31,118,50
+496,Comfortable Yoga Mat,Sports,131.97,118,50
+497,Quality Bicycle Helmet,Sports,113.89,253,50
+498,Adjustable Basketball,Sports,141.76,48,50
+499,Durable Bicycle Helmet,Sports,43.75,28,50
+500,Professional Golf Clubs,Sports,35.86,184,50
