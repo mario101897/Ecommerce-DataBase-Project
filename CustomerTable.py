@@ -12,15 +12,7 @@ from datetime import datetime
 fake = Faker()
 
 # Defining the scale of our dataset to reflect a busy e-commerce system
-num_customers = 1000
-num_products = 500
-num_suppliers = 50
-num_orders = 2500
-
-# Parameters that will help us manage stock and order quantities realistically
-max_initial_stock = 300  # The maximum initial stock for products
-max_order_quantity = 10  # A reasonable cap on how much of a product a single order can contain
-restock_threshold = 50   # When stock falls below this, we'll consider it time to restock
+num_customers = 2500
 
 # Initially, I attempted to generate phone numbers using the .phone_number() method from the Faker class, 
 # but it produced numbers without a consistent structure. 
