@@ -1,4 +1,4 @@
-# ORDERS
+# ORDERS and ORDERS DETAILS
 
 import random
 import csv
